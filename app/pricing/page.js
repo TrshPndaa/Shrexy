@@ -12,7 +12,7 @@ export default function Pricing() {
 
         <div className="flex-1 flex flex-col justify-center items-center">
           <div className="text-center mb-16">
-            <h2 className="text-5xl md:text-6xl font-black mb-6 bg-gradient-to-r from-purple-600 to-pink-500 bg-clip-text text-transparent">
+            <h2 className="text-5xl md:text-6xl font-black mb-6 pb-2 bg-gradient-to-r from-purple-600 to-pink-500 bg-clip-text text-transparent">
               Simple Pricing
             </h2>
             <p className="text-xl text-purple-700 max-w-2xl mx-auto">

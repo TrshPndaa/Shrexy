@@ -4,7 +4,7 @@ import Header from './components/header';
 export default function Home() {
   return (
     <>
-    <title>Slotify | Home</title>
+    <title>Slotic | Home</title>
     <main className="min-h-screen bg-gradient-to-br from-pink-50 via-purple-50 to-white overflow-hidden relative">
       {/* Background elements */}
 
@@ -18,7 +18,7 @@ export default function Home() {
         {/* Hero section */}
         <div className="flex-1 flex flex-col justify-center items-center text-center">
           <h1 className="text-7xl md:text-8xl font-black mb-6 bg-gradient-to-r from-purple-600 to-pink-500 bg-clip-text text-transparent">
-            SLOTIFY
+            SLOTIC
           </h1>
           
           <p className="text-2xl md:text-3xl text-purple-900 mb-12 max-w-2xl leading-relaxed">

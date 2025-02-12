@@ -17,7 +17,7 @@ export default function About() {
                 Our Story
               </h2>
               <p className="text-lg text-purple-700 leading-relaxed">
-                Founded in 2023, Slotify emerged from a simple idea: scheduling should be smart, simple, and secure.
+                Founded in 2023, Slotic emerged from a simple idea: scheduling should be smart, simple, and secure.
                 Our team of passionate developers and customer experience experts came together to revolutionize
                 how businesses connect with their clients.
               </p>
